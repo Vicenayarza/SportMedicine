@@ -19,7 +19,7 @@
 
     <EditText
         android:id="@+id/et_email"
-        android:layout_width="357dp"
+        android:layout_width="319dp"
         android:layout_height="51dp"
         android:ems="10"
         android:hint="@string/mail"

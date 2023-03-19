@@ -271,4 +271,12 @@ public class PedirCitas extends AppCompatActivity {
         }
         notificationManagerCompat.notify(NOTIFICACION_ID, builder.build());
     }
+    public void cerrarPantalla(View vista){ //metodo para cerrar
+        Intent intent=new Intent(getApplicationContext(),MenuInicio.class);
+        intent.putExtra("emailBdd", emailBdd);
+        intent.putExtra("nombreBdd", nombreBdd);
+        startActivity(intent); //solicitamos que habra el menu
+        finish(); //cerrando la activity
+
+    }
 }

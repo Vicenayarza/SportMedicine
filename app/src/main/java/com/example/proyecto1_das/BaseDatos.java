@@ -82,11 +82,12 @@ public class BaseDatos extends SQLiteOpenHelper {
     public ArrayList<Cita> obtenerCita(String email){
         SQLiteDatabase miBdd = getWritableDatabase(); // llamado a la base de datos
         ArrayList<Cita> citas = new ArrayList<>();
+
         //crear un cursor donde inserto la consulta sql y almaceno los resultados
         Cursor c= miBdd.rawQuery("select " +
                 "tipo , fecha_cita " +
                 "from cita  " +
-                "where email =  '"+email+"';", null);
+                "where email =  '"+email+ "';", null);
         //validar si existe o no la consulta
         while (c.moveToNext()) {
             String tipo = c.getString(0);
