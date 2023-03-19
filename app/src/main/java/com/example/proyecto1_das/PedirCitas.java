@@ -103,6 +103,11 @@ public class PedirCitas extends AppCompatActivity {
 
                     } else {
                         Toast.makeText(this,getResources().getString(R.string.citaocupada) , Toast.LENGTH_SHORT).show();
+                        Intent intent = new Intent(this, MenuInicio.class); //volvemos al menu inicio
+                        intent.putExtra("emailBdd", emailBdd);
+                        intent.putExtra("nombreBdd", nombreBdd);
+                        startActivity(intent);
+                        finish();
                     }
                 } catch (Exception e) {
                     Toast.makeText(this, e + "", Toast.LENGTH_LONG).show();
