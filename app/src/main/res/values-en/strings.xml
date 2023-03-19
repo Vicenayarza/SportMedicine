@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SportMedicineCastro</string>
+    <string name="mail">Email</string>
+    <string name="contraseña">password</string>
+    <string name="lenguaje">Change to spanish</string>
+    <string name="titulaciones">Degees</string>
+    <string name="saludo">Hello</string>
+
+
+    <string name="entrar">Log in </string>
+    <string name="noregistrado">Are you registered?</string>
+    <string name="registro">Sign up</string>
+
+
+    <string name="error_email">Enter a valid email</string>
+    <string name="error_contraseña">enter a valid password \nMinimum 6 characters</string>
+    <string name="error_nombre">Please enter a valid name</string>
+    <string name="error_año">Please enter a valid date\nDate must be Day/Month/Year </string>
+    <string name="contraseña_invalida">Passwords do not match</string>
+    <string name="error_telefono">You must enter a correct phone number \nYou must have 9 numbers</string>
+    <string name="no_cuenta">account not found</string>
+    <string name="no_cuenta_mensaje">Verify the data or create an account if you are not registered yet</string>
+    <string name="contraseña_incorrecta">wrong password</string>
+
+
+    <string name="nombre">Name</string>
+    <string name="apellido">Last name</string>
+    <string name="telefono">Phone</string>
+    <string name="contraseña2">Confirm password</string>
+    <string name="nacimiento">Birthday ej. 27/04/2001</string>
+
+
+    <string name="agenda">Ask for a session</string>
+    <string name="citas">See my sessions</string>
+    <string name="perfil">Edit account</string>
+    <string name="salir">Exit</string>
+    <string name="inicio">Start</string>
+    <string name="conocenos">About us </string>
+    <string name="tipo_cita">Session types</string>
+
+    <string name="fecha">Date</string>
+    <string name="hora">Time</string>
+    <string name="año">Year</string>
+
+    <string name="citaOk">session saved correctly</string>
+    <string name="citaocupada"> There is already a session reserved for that date and time</string>
+    <string name="error_tipo">You must select a session type</string>
+    <string name="error_fecha">You must select a date </string>
+    <string name="error_hora">You must select a time</string>
+    <string name="guardar_cita">Save session?</string>
+    <string name="seleccioncita">Select a session</string>
+    <string name="noreserva">You have not booked a session yet</string>
+    <string name="cambiocita">Change session</string>
+    <string name="cancelarcita">Cancel session </string>
+    <string name="reintentar">Try again</string>
+    <string name="fecha_pedida">Date the session was requested </string>
+    <string name="pregunta_cancelar">Cancel sesion?</string>
+    <string name="borrar_cita">the session will be canceled</string>
+    <string name="confirmar">Confirm</string>
+    <string name="cancelar">Cancel</string>
+    <string name="visitanos">Visit us!</string>
+    <string name="localizacion">Polideportivo Peru Zaballa, Paseo de Ostende/sn, 39700 Castro Urdiales, Cantabria</string>
+    <string name="autor">Made by  Vicente Ayarza Ocejo</string>
+    <string name="atras">Return</string>
+    <string name="t1">Graduate in Medicine and Surgery</string>
+    <string name="t2">Specialist in Physical Education and Sports Medicine</string>
+    <string name="t3">Sports Ultrasound Specialist</string>
+    <string name="t4">Dry Needling Specialist</string>
+    <string name="t5">Nutrition Specialist</string>
+    <string name="notificacion">Session Notification</string>
+
+</resources>

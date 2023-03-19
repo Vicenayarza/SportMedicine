@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SportMedicineCastro</string>
+    <string name="mail">Correo electronico</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="lenguaje">Cambiar idioma a inglés</string>
+    <string name="titulaciones">titulaciones</string>
+    <string name="saludo">Hola</string>
+
+
+
+    <string name="entrar">Iniciar sesión</string>
+    <string name="noregistrado">¿Estás Registrado?</string>
+    <string name="registro">Regístrate</string>
+
+
+    <string name="error_email">Ingresa un correo válido</string>
+    <string name="error_contraseña">Ingresa una contraseña válida \nMínimo 6 caracteres</string>
+    <string name="error_nombre">Ingresa un nombre válido</string>
+    <string name="error_año">Ingrese una fecha válida\nLa fecha debe ser Día/Mes/Año </string>
+    <string name="contraseña_invalida">Las contraseñas no coinciden</string>
+    <string name="error_telefono">Debe ingresar un teléfono correcto \nDebe tener 9 numeros</string>
+    <string name="no_cuenta">No se enuentra la cuenta</string>
+    <string name="no_cuenta_mensaje">Compruebe los datos o creese una cuenta si aún no está registrado</string>
+    <string name="contraseña_incorrecta">Contraseña Incorrecta</string>
+
+
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="telefono">Teléfono</string>
+    <string name="contraseña2">Confirmar contraseña</string>
+    <string name="nacimiento">Fecha de Ncimiento ej. 27/04/2001</string>
+
+
+    <string name="agenda">Pedir cita</string>
+    <string name="citas">Ver mis Citas</string>
+    <string name="perfil">Editar Cuenta</string>
+    <string name="salir">Salir</string>
+    <string name="inicio">Inicio</string>
+    <string name="conocenos">Sobre Nosotros</string>
+    <string name="tipo_cita">Tipo de Citas</string>
+
+    <string name="fecha">Fecha</string>
+    <string name="hora">Hora</string>
+    <string name="año">Año</string>
+
+    <string name="citaOk">Cita guardada correctamente</string>
+    <string name="citaocupada">Ya existe una cita reservada a esa fecha y hora</string>
+    <string name="error_tipo">Debes seleccionar un tipo de cita</string>
+    <string name="error_fecha">Debes seleccionar una fecha</string>
+    <string name="error_hora">Debes seleccionar una hora</string>
+    <string name="guardar_cita">¿Guardar Cita?</string>
+    <string name="seleccioncita">Selecciona una cita </string>
+    <string name="noreserva">Aún no ha reservado cita</string>
+    <string name="cambiocita">Cambiar cita</string>
+    <string name="cancelarcita">Cancelar Cita</string>
+    <string name="reintentar">Intentar de nuevo</string>
+    <string name="fecha_pedida">Fecha en la que se realizó la cita </string>
+    <string name="pregunta_cancelar">¿Cancelar Cita?</string>
+    <string name="borrar_cita">La cita se cancelará</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="visitanos">Visitanos!</string>
+    <string name="localizacion">Polideportivo Peru Zaballa, Paseo de Ostende/sn, 39700 Castro Urdiales, Cantabria</string>
+    <string name="autor">Realizado por Vicente Ayarza Ocejo</string>
+    <string name="atras">Volver</string>
+    <string name="t1">Licenciada en Medicina y Cirugía</string>
+    <string name="t2">Especialista en Medicina de la Educación Física y el Deporte</string>
+    <string name="t3">Especialista en Ecografía Deportiva</string>
+    <string name="t4">Especialista en Punción Seca</string>
+    <string name="t5">Especialista en nutrición</string>
+    <string name="notificacion">Notificación cita</string>
+
+
+
+</resources>
